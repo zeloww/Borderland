@@ -61,4 +61,4 @@ _wiki, random, random <number> <number>, password, reverse, rate, hotcalc, slot,
 
 -----
 
-### <p align="center">zeloww</p>
+### <p align="center">[Zeloww](https://github.com/zeloww)</p>
