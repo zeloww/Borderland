@@ -3,8 +3,8 @@
 -----
 
 ### <p align="center">🔮  Borderland 🔮 </p>
-> Add the bot to your server by clicking **[Here](https://botjoin.com)**<br>
-> Top.gg profil bot **[Here](https://top.gg/com/borderland)**<br>
+> Add the bot to your server by clicking **[Here](https://discord.com/oauth2/authorize?client_id=845582608909074472&permissions=8&scope=bot)**<br>
+> Top.gg profil bot **[Here](https://top.gg/borderland)**<br>
 > Any problems, suggestions... ? Join the **[Bot Support Server](https://discord.gg/HmDKy9Twzh)**
 <p align="center">
 <strong>
